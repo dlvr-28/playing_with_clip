@@ -10,14 +10,14 @@ We didn't use this repo for development, so all the files are commited in an inr
 
 Currently, there is a messy_drafts folder which contains many mostly useless files which we need some more time to sort/delete
 
-We kinda got to a good structure and we need to get some good .py files that we import in all the .ipynb tests we are going to do.
-
+We are upgrading to a good structure and we need to get some good .py files that we import in all the .ipynb tests we are going to do.
 
 In the end, we will need only 2 files,
 
-CoOp_classifier.ipynb
+- CoOp_classifier.ipynb
 > Trains coop prompt for classification, with different params such as the number of shots, etc.
-CoOp_retrieval.ipynb
+
+- CoOp_retrieval.ipynb
 > Same but for retrieval
 
 
