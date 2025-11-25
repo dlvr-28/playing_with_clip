@@ -26,5 +26,8 @@ First 80 Epochs, bs=32, k=1, lr=1e-3
 <img width="1211" height="411" alt="image" src="https://github.com/user-attachments/assets/b7710175-0d15-40b3-93ae-c48042ced790" />
 
 
+First 80 Epochs, bs=32, k=1, lr=1e-3 
+<img width="1211" height="411" alt="image" src="https://github.com/user-attachments/assets/af9cf957-40e4-4513-86d8-c4a2cf4db590" />
 
-
+200 epochs, bs=16, k=1, lr=3e-4
+<img width="829" height="381" alt="image" src="https://github.com/user-attachments/assets/f9eb7732-d9a7-4544-ad38-a77103d7e309" />
