@@ -53,6 +53,12 @@ val_acc = 0.9480392156862745
 
 
 
+k=all, epoch=way to many=200, bs=64, lr=3e-4
+
+<img width="1211" height="411" alt="Untitled" src="https://github.com/user-attachments/assets/c764142d-432a-4c8b-bcf4-0fac3ac61e04" />
+
+
+
 
 
 
