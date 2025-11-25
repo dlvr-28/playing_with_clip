@@ -19,3 +19,7 @@ Another 80 Epochs, bs=32, k=1, lr=2e-4
 First 80 Epochs, bs=32, k=1, lr=1e-4
 <img width="1211" height="411" alt="image" src="https://github.com/user-attachments/assets/b613dbaf-d342-41bf-a5ae-9b360b37e426" />
 
+Another 80 Epochs, bs=32, k=1, lr=1e-4
+<img width="1211" height="411" alt="image" src="https://github.com/user-attachments/assets/164e9a94-468b-43d7-a0c1-365091efa94f" />
+
+
