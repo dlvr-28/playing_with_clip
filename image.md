@@ -38,6 +38,13 @@ val_acc = 0.8519607843137255
 val_acc = 0.8666666666666667
 <img width="1211" height="411" alt="image" src="https://github.com/user-attachments/assets/99a1837d-0f1d-4c65-98d7-9514dc18256e" />
 
+200 epochs, bs=32, k=2, lr=3e-4
+val_acc = 0.8823529411764706
+<img width="1211" height="411" alt="image" src="https://github.com/user-attachments/assets/350c5d63-e034-45e5-804c-e63fe6176251" />
+
+
+
+
 
 
 
