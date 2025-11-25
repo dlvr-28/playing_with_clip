@@ -33,3 +33,9 @@ First 80 Epochs, bs=32, k=1, lr=1e-3
 val_acc = 0.8519607843137255
 <img width="1211" height="411" alt="image" src="https://github.com/user-attachments/assets/533ef523-4e9b-4702-b16a-974fd7b88973" />
 
+
+200 epochs, bs=16, k=2, lr=3e-4
+val_acc = 0.8392156862745098
+<img width="1211" height="411" alt="image" src="https://github.com/user-attachments/assets/bc7f7691-bc47-4fa3-8890-fdd03888502e" />
+
+
