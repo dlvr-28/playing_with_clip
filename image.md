@@ -1,3 +1,4 @@
+Flower Dataset
 Accuracy for Zero-shot : 0.749 - Accuracy to beat
 
 First 80 Epochs, bs=32, k=1
@@ -50,6 +51,43 @@ val_acc = 0.9117647058823529
 100 epochs, bs=128, k=8, lr=3e-4
 val_acc = 0.9480392156862745
 <img width="1211" height="411" alt="image" src="https://github.com/user-attachments/assets/cf8b75d5-2b00-40d4-9159-22f8de265c6e" />
+
+
+
+k=all, epoch=way to many=200, bs=64, lr=3e-4, val_acc=0.966
+
+<img width="1211" height="411" alt="Untitled" src="https://github.com/user-attachments/assets/c764142d-432a-4c8b-bcf4-0fac3ac61e04" />
+
+___________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+DTD Dataset
+
+30 epochs, bs=32, lr=3e-4
+<img width="860" height="253" alt="image" src="https://github.com/user-attachments/assets/9ce11971-168d-41e5-8ac8-ff7ab7dbee8b" />
+
+<img width="600" height="702" alt="image" src="https://github.com/user-attachments/assets/97a0fe9d-84a8-408c-8cf2-b3271337e939" />
+
+<img width="1211" height="411" alt="Untitled" src="https://github.com/user-attachments/assets/bfba4c28-7ac4-44e8-8f1d-c4c91770d523" />
+
+Accuracy for 0-shot:
+<img width="633" height="396" alt="image" src="https://github.com/user-attachments/assets/da58543b-89de-464e-bf9b-96736437ff70" />
+
+
+80 epochs, bs=16, k=1, lr=3e-4
+val_acc = 0.5468085106382978
+<img width="961" height="440" alt="image" src="https://github.com/user-attachments/assets/6d1760f4-413c-4711-a6c8-44416b23fcd4" />
+
+80 epochs, bs=16, k=2, lr=3e-4
+val_acc = 
+
+
+
+
+
+
+
+
 
 
 
