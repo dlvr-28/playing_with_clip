@@ -79,7 +79,18 @@ val_acc = 0.5468085106382978
 <img width="961" height="440" alt="image" src="https://github.com/user-attachments/assets/6d1760f4-413c-4711-a6c8-44416b23fcd4" />
 
 80 epochs, bs=16, k=2, lr=3e-4
-val_acc = 
+val_acc = 0.6132978723404255
+<img width="1211" height="411" alt="Untitled" src="https://github.com/user-attachments/assets/db1dbdb8-5dbb-4aa3-ae68-a083c77a1b9e" />
+
+80 epochs, bs=16, k=4, lr=3e-4
+val_acc = 0.6441489361702127
+<img width="1211" height="411" alt="Untitled" src="https://github.com/user-attachments/assets/c1a2f77c-cec0-4a1b-89ee-f668033dda48" />
+
+30 epochs, bs=32, k=8, lr=3e-4
+val_acc = 0.6680851063829787
+<img width="1211" height="411" alt="Untitled" src="https://github.com/user-attachments/assets/7030e70e-91bb-4811-a446-803feed56870" />
+
+
 
 
 
