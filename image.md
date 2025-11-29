@@ -93,6 +93,29 @@ val_acc = 0.6680851063829787
 
 
 
+___________________________________________________________________________________
+
+Caltech-101
+Accuracy for zeroshot: 0.8940092165898618
+
+50 epochs, bs=16, k=1, lr=3e-4
+val_acc =  0.9210829493087558
+
+50 epochs, bs=16, k=2, lr=3e-4
+val_acc = 0.9441244239631337
+
+
+50 epochs, bs=16, k=4, lr=3e-4
+val_acc = 91.19
+<img width="1211" height="411" alt="image" src="https://github.com/user-attachments/assets/85111e21-aa9e-4ada-95bd-2509b741e277" />
+
+50 epochs, bs=64, k=4, lr=3e4
+val_acc =  0.9527649769585254
+<img width="1211" height="411" alt="image" src="https://github.com/user-attachments/assets/97eac591-135a-48f0-9a3d-6fc2d807d888" />
+
+
+
+_____________________________________________________________________________
 
 
 
