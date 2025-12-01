@@ -123,6 +123,9 @@ Sun397
 20 epochs, bs=16, k=1, lr=3e-4
 val_acc = 0.6653400503778337
 
+20 epochs, bs=16, k=2, lr=3e-4
+val_acc = 0.66816120906801
+
 
 
 
