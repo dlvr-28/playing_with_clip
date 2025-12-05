@@ -1,32 +1,9 @@
-# Deep Learning for Visual Recognition Project
+# Context-Optimized Prompts for MobileCLIP2: Efficient Multi-Modal Adaptation on Resource-Constrained Models
 
-## CLIP in daily life
+## This repo contains all the info for this paper
 
-### Note! Only drafts in here
+- Paper details in `DLVR_Report_Final.pdf` with the latex source in `DLVR_Report_Final_Final_latex.zip`
+- The latest version of the code in `CoOp_v0_1_1.ipynb`. It doesn't cover everything, more drafts can be found in `messy_drafts/` directory.
+- And traind prompts for different datasets in the `trained_prompts/` directory.
 
-We need to reorganize everything, including this messy README.
-
-We didn't use this repo for development, so all the files are commited in an inrelevant order and under irelevant author.
-
-Currently, there is a messy_drafts folder which contains many mostly useless files which we need some more time to sort/delete
-
-We are upgrading to a good structure and we need to get some good .py files that we import in all the .ipynb tests we are going to do.
-
-In the end, we will need only 2 files,
-
-- CoOp_classifier.ipynb
-> Trains coop prompt for classification, with different params such as the number of shots, etc.
-
-- CoOp_retrieval.ipynb
-> Same but for retrieval
-
-
-## We currently created
-
-> The format is `{model_size}_{method}_{dataset}[_{extra params}].pt`
-
-- s0_coop_eurosat.pt
-- s0_coop_flickr30k.pt
-- s0_coop_flower102.pt
-- s0_coop_flower102_fewshot4.pt
-- cifar10_mobileclip2-s0_ctx.pt (old format, have to retrain this)
+Archived.
